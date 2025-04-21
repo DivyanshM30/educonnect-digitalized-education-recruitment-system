@@ -123,7 +123,7 @@ export const Hero = () => {
 
       <section className="hero">
         <div className="hero-content">
-          <h1>Welcome to Digital Education and Recruitment System: Where Learning Meets Opportunity</h1>
+          <h1>Welcome to Educonnect : Digitalized Education and Recruitment System: Where Learning Meets Opportunity</h1>
           <h4>Choose your role to get started</h4>
         </div>
         <div className="user-cards">
